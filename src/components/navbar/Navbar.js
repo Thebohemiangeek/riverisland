@@ -31,9 +31,13 @@ const Links = styled.ul`
 display: flex;
 justify-content: space-between;
 flex-direction:row;
+a{
+    color: black;
+}
 li{
     font-family: 'Oswald', sans-serif;
 margin: 0 10px;
 font-size: 24px;
+
 }
 `
